@@ -1,0 +1,22 @@
+#App{
+ position: relative;
+}
+#titulo{
+    position: absolute;
+    top: 10px;
+}
+#audios{
+    position: absolute;
+    top: 150px;
+    left: 50px;
+}
+#videos1{
+    position: absolute;
+    top: 320px;
+    left: 500px;
+}
+#videos2{
+    position: absolute;
+    top: 450px;
+    left: 850px;
+}
