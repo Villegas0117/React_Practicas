@@ -27,6 +27,7 @@ const Rutas = () => {
         <Route path='/' element={<Inicio />} />
         <Route path='/contacto' element={<Contacto />} />
         <Route path='/nosotros' element={<Nosotros />} /> {/* Corregido el path */}
+        
       </Routes>
     </BrowserRouter>
   );
